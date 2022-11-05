@@ -22,3 +22,21 @@ header p {
     padding: 50px;
     color: #faebd7;
 }
+
+.content .top-news-section {
+    width: 75%;
+    padding: 10px;
+}
+
+.content aside {
+    width: 25%;
+    margin: 10px;
+    padding: 20px;
+    border-left: 1px solid #5a6268;
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 50px;
+    color: #faebd7;
+}
